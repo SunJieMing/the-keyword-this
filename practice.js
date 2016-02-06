@@ -15,10 +15,12 @@
   // 3) What is the difference between call and apply?
 
       //Answer
+      //.apply takes an array as its second argument and .call takes comma separated values after its first argument.
 
   // 4) What does .bind do?
 
       //Answer
+      //.bind returns a copy of the function that it is invoked on that has its "this" context bound to whatever object was passed to .bind.
 
 
 //Next Problem
